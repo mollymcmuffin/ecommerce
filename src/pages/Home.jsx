@@ -1,9 +1,15 @@
-import Navbar from "../components/Navbar"
+import Navbar from "../components/Navbar";
+import Annoucement from "../components/Annoucement";
+import Slider from "../components/Slider";
 
-const Home = () => {
+const home = () => {
   return (
-    <Navbar/>
-  )
-}
+    <>
+      <Annoucement />
+      <Navbar />
+      <Slider />
+    </>
+  );
+};
 
-export default Home
+export default home;
