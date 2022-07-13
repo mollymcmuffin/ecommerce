@@ -47,7 +47,7 @@ export const popularProducts = [
   },
   {
     id: 2,
-    img: "https://cdn.shopify.com/s/files/1/0101/4832/products/Angela_Natural_Tee.png?v=1606780388",
+    img: "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/c1c2315f-62cf-4992-8eba-df716526cb86/air-force-1-react-shoes-g9MPSs.png",
   },
   {
     id: 3,
@@ -67,7 +67,7 @@ export const popularProducts = [
   },
   {
     id: 7,
-    img: "https://www.vintageindustries.nl/download_front/qympzk1762/2217_Arrow_Jacket_Forest.png",
+    img: "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/c1c2315f-62cf-4992-8eba-df716526cb86/air-force-1-react-shoes-g9MPSs.png",
   },
   {
     id: 8,
