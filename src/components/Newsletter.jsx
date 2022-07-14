@@ -40,6 +40,7 @@ const Button = styled.button`
   display: flex;
   justify-content: center;
   align-items: center;
+  cursor: pointer;
 `;
 
 const Newsletter = () => {
