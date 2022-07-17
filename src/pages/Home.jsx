@@ -11,15 +11,13 @@ import Product from "./Product";
 const home = () => {
   return (
     <>
-      {/* <Annoucement />
+      <Annoucement />
       <Navbar />
       <Slider />
       <Categories />
       <Products />
       <Newsletter />
-      <Footer /> */}
-
-      <Product />
+      <Footer />
     </>
   );
 };

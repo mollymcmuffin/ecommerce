@@ -3,6 +3,9 @@ import { Facebook, Instagram, Twitter, Phone, Email } from "@material-ui/icons";
 
 const Container = styled.div`
   display: flex;
+  @media screen and (max-width: 600px) {
+    flex-direction: column;
+  }
 `;
 const Left = styled.div`
   flex: 1;

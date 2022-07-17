@@ -17,6 +17,7 @@ const Description = styled.p`
   font-size: 2rem;
   font-weight: 300;
   margin-bottom: 1rem;
+  text-align: center;
 `;
 const InputContainer = styled.div`
   width: 50%;

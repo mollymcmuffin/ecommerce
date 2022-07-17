@@ -31,6 +31,9 @@ const Right = styled.div`
 const Language = styled.div`
   font-size: 14px;
   cursor: pointer;
+  @media screen and (max-width: 600px) {
+    display: none;
+  }
 `;
 
 const SearchContainer = styled.div`
@@ -39,10 +42,14 @@ const SearchContainer = styled.div`
   align-items: center;
   margin-left: 1rem;
   padding: 0.25rem;
+  @media screen and (max-width: 600px) {
+    width: 50%;
+  }
 `;
 
 const Input = styled.input`
   border: none;
+  width: 100%;
 `;
 
 const Logo = styled.h1`
